@@ -1,0 +1,9 @@
+Contacto agregado con exito.
+Contacto agregado con exito.
+Informacion del contacto Juan:
+ Nombre: Juan
+ Teléfono: 34512
+ Correo: juan@email.com
+Contacto eliminado con exito.
+Lista de contactos organizada:
+ - Juan

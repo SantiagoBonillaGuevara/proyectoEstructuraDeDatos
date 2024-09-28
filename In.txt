@@ -1,0 +1,5 @@
+AGREGAR juan 34512 juan@email.com
+AGREGAR maria 234 maria@email.com
+BUSCAR juan
+ELIMINAR maria
+ORGANIZAR
